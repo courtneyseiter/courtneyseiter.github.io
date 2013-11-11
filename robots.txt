@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /hellobuffer/index.html
